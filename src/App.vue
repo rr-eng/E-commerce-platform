@@ -156,5 +156,6 @@ export default {
 .app-footer p {
   text-align:center;
   line-height:60px;
+  font-size:10px;
 }
 </style>
